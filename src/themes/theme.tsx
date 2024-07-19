@@ -15,6 +15,10 @@ const secundary = '#F9B531';
 
 const theme = {
     fontSizes,
+    fonts: {
+        primary: 'Raleway',
+        secundary: 'Roboto',
+    },
     colors: {
         primary,
         secundary,
